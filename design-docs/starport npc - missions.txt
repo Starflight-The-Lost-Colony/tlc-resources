@@ -1,0 +1,123 @@
+quests | hire crewmembers | cargo | ships | ship equipment
+
+quest #'s from 'original mission list.txt'
+
+
+GENERAL LOCATIONS
+___________________________________
+
+M1.jpg cargo, hire crewmembers 
+
+F1.jpg cargo, general ships [only after 8 quests by anyone are completed: Transition quest 11 "chaos"]
+
+M2.jpg cargo, general ships, general ship equipment
+
+F2.jpg Does not speak to player [only after 12 quests by anyone are completed: Transition quest ~15/16 "war"]
+
+M3.jpg Does not speak to player [only after 16 quests by anyone are completed: Transition quest ~19 "ancients"]
+
+F3.jpg hire crewmembers, general ships, general ship equipment
+
+
+
+SCIENTIFIC/CORPORATE NPCs
+___________________________________
+
+M1.jpg - quests only
+  (when all missions in a stage are done: unlock science ship purchases)
+* STAGE1: scientific quests 1-3 (visit planet, visit planet, land on planets) 
+* STAGE2: scientific quest 13 (decontamination transporter - Bar-zhon)
+* STAGE3: scientific quest 16 (learning about Minex ship technology)
+
+F1.jpg - quests only
+  Done: unlock advanced ships
+* STAGE1: scientific quests 4-6 (first contact, collect cargo, pick up artifact) Done: unlock advanced ships purchases only if regular science ship purchases are already unlocked
+* STAGE2: scientific quest 14 (plague treatment - Nyssian)
+* STAGE3: scientific quest 17 (emergency evacuation)
+* STAGE4: scientific quest 21 (final)
+
+M2.jpg - hire crewmembers with high science skills
+  Done: unlock class 6 shields
+* STAGE1: scientific quests 7-10 (visit planet, artifact, visit planets, find difficult planet) 
+* STAGE2: scientific quest 12 (viral sample for Elowan)
+* STAGE3: scientific quest 18 (infighting pirates)
+* STAGE4: scientific quest 20 (Minex/Spemin data cube)
+
+F2.jpg - purchase scientific ships(locked basic ships)(locked advanced ships) / ship equipment (class 6 shield locked) / cargo
+
+
+MILITARY NPCs
+___________________________________
+
+F1.jpg - purchase military ships(locked basic ships)(locked advanced ships) / ship equipment (class 6 lasers and class 6 missiles locked)
+  (when all missions in a stage are done: unlock military ship purchases)
+* STAGE1: military quests 2,3 (artifact, Pirates small arms)
+* STAGE2: military quest 12 (find smugglers)
+* STAGE3: military quest 19 (escort duty)
+* STAGE4: no quests
+
+M1.jpg - hire crewmembers with high tactical skills
+   (when all missions in a stage are done: unlock class 6 lasers)
+* STAGE1: military quests 4,5 (destroy pirate ships, obtain coalition afterburner)
+* STAGE2: military quest 13 (coalition battle)
+* STAGE3: military quest 17 (coalition attack)
+* STAGE4: no quests
+
+F2.jpg cargo
+  (when all missions in a stage are done: unlock class 6 missiles)
+* STAGE1: military quests 6,8 (Thrynn/Elowan conflict, Spemin nutritional chemicals)
+* STAGE2: military quest 15 (Thrynn/coalition frame job)
+* STAGE3: military quest 18 (bar-zhon coordination)
+* STAGE4: military quest 23 (final)
+
+M2.jpg
+  (when all missions in a stage are done: unlock advanced military ship purchases)
+* STAGE1: military quests 9,10 (Destroy Minex ships)
+* STAGE2: military quest 14 (bar-zhon alliance)
+* STAGE3: military quest 20 (formalizing bar-zhon alliance)
+* STAGE4: military quest 22 (Bar-zhon planet overrun)
+
+
+FREELANCE NPCs
+___________________________________
+
+M1.jpg cargo, crew with navigation skills
+* STAGE1: freelance quests 1-2 (artifact fetch, artifact fetch)
+* STAGE2: no quests
+* STAGE3: no quests
+* STAGE4: no quests
+
+F1.jpg cargo, crew with navigation skills
+* STAGE1: freelance quests 3,5 (Nyssian - database, Nyssian-amazing artifact)
+* STAGE2: no quests
+* STAGE3: no quests
+* STAGE4: no quests
+
+M2.jpg cargo, ship equipment 
+* STAGE1: freelance quest 4 (coalition - stolen orb)
+* STAGE2: no quests
+* STAGE3: no quests
+* STAGE4: no quests
+
+F2.jpg cargo, ship equipment
+   (when all missions in a stage are done: unlock class 6 lasers)
+* STAGE1: freelance quest 8 (artifact-Erratic Energy Device)
+* STAGE2: freelance quest 12 (medical technology)
+* STAGE3: freelance quest 16 (chain of wreck sites)
+* STAGE4: freelance quest 20 (ruins search)
+
+M3.jpg ships (engines 5 locked, lasers 6 locked)
+* STAGE1: freelance quest 9 (sell artifact)
+* STAGE2: freelance quest 14 (bypass shields)
+* STAGE3: freelance quest 18 (shimmering ball artifact)
+* STAGE4: no quests
+
+F3.jpg ships (engines 5 locked, lasers 6 locked)
+   (when all missions in a stage are done: unlock class 5 engines)
+* STAGE1: freelance quest 10 (negotiate peace: Bar-zhon & Elowan)
+* STAGE2: freelance quest 13 (Terrorists)
+* STAGE3: freelance quest 17 (excursions into Minex territory)
+* STAGE4: no quests
+
+
+
